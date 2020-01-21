@@ -1,0 +1,183 @@
+[
+  {
+    "id": 381,
+    "avatar_url": "https://randomuser.me/api/portraits/women/47.jpg",
+    "employee_id": "201889291",
+    "first_name": "Sloane Newman",
+    "last_name": "Maynard",
+    "email": "sloane@example.com",
+    "username": "sloane",
+    "birthday": "1992-04-20",
+    "addresses": [
+      {
+        "label": "home",
+        "address": "Jalan Kumis Kucing 10",
+        "city": "DKI Jakarta"
+      },
+      {
+        "label": "parent_house",
+        "address": "Jalan Ketela Gosong A20",
+        "city": "DKI Jakarta"
+      }
+    ],
+    "phones": [
+      {
+        "label": "home",
+        "phone": "0812345678"
+      },
+      {
+        "label": "office",
+        "phone": "0817283939"
+      }
+    ],
+    "presence_list": [
+      "2019-09-30",
+      "2019-10-01",
+      "2019-10-02",
+      "2019-10-03",
+      "2019-10-04",
+      "2019-10-07",
+      "2019-10-08",
+      "2019-10-09",
+      "2019-10-10",
+      "2019-10-11",
+      "2019-10-14",
+      "2019-10-15",
+      "2019-10-16",
+      "2019-10-17",
+      "2019-10-18",
+      "2019-10-21",
+      "2019-10-22",
+      "2019-10-23",
+      "2019-10-24",
+      "2019-10-25",
+      "2019-10-28",
+      "2019-10-29",
+      "2019-10-30",
+      "2019-10-31",
+      "2019-10-18"
+    ],
+    "salary": 19300000,
+    "department": {
+      "name": "Research and development"
+    },
+    "position": {
+      "name": "VP Engineer"
+    }
+  },
+  {
+    "id": 408,
+    "avatar_url": "https://randomuser.me/api/portraits/men/40.jpg",
+    "employee_id": "201989299",
+    "first_name": "Patterson",
+    "last_name": "Haynes",
+    "email": "haynes@example.com",
+    "username": "haynes",
+    "birthday": "1993-04-03",
+    "addresses": [
+      {
+        "label": "home",
+        "address": "Jalan Jambu Air 302",
+        "city": "DKI Jakarta"
+      }
+    ],
+    "phones": [
+      {
+        "label": "home",
+        "phone": "0812345678"
+      },
+      {
+        "label": "office",
+        "phone": "0817283939"
+      }
+    ],
+    "presence_list": [
+      "2019-09-30",
+      "2019-10-01",
+      "2019-10-02",
+      "2019-10-03",
+      "2019-10-04",
+      "2019-10-08",
+      "2019-10-09",
+      "2019-10-10",
+      "2019-10-11",
+      "2019-10-14",
+      "2019-10-15",
+      "2019-10-16",
+      "2019-10-17",
+      "2019-10-18",
+      "2019-10-22",
+      "2019-10-23",
+      "2019-10-24",
+      "2019-10-25",
+      "2019-10-28",
+      "2019-10-29",
+      "2019-10-30",
+      "2019-10-31",
+      "2019-10-18"
+    ],
+    "salary": 1820000,
+    "department": {
+      "name": "Research and development"
+    },
+    "position": {
+      "name": "Lead Engineer"
+    }
+  },
+  {
+    "id": 381,
+    "avatar_url": "https://randomuser.me/api/portraits/women/48.jpg",
+    "employee_id": "202089291",
+    "first_name": "Juan",
+    "last_name": "Garcia",
+    "email": "juan@example.com",
+    "username": "juan",
+    "birthday": "2001-12-20",
+    "addresses": [
+      {
+        "label": "home",
+        "address": "Jalan Sate Ayam B39",
+        "city": "Bogor"
+      }
+    ],
+    "phones": [
+      {
+        "label": "home",
+        "phone": "0812312112"
+      }
+    ],
+    "presence_list": [
+      "2019-09-30",
+      "2019-10-01",
+      "2019-10-02",
+      "2019-10-03",
+      "2019-10-04",
+      "2019-10-07",
+      "2019-10-08",
+      "2019-10-09",
+      "2019-10-10",
+      "2019-10-11",
+      "2019-10-14",
+      "2019-10-16",
+      "2019-10-17",
+      "2019-10-18",
+      "2019-10-21",
+      "2019-10-22",
+      "2019-10-23",
+      "2019-10-24",
+      "2019-10-25",
+      "2019-10-28",
+      "2019-10-29",
+      "2019-10-30",
+      "2019-10-31",
+      "2019-10-18"
+    ],
+    "salary": 1250000,
+    "department": {
+      "name": "Business and Development"
+    },
+    "position": {
+      "name": "Marketing"
+    }
+  }
+]
